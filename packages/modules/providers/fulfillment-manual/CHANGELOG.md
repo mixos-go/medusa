@@ -1,5 +1,12 @@
 # @medusajs/fulfillment-manual
 
+## 2.19.0
+
+### Patch Changes
+
+- Updated dependencies [[`372a1ab8fa4c8415f1eda294e3c4c5d9dbee4a30`](https://github.com/medusajs/medusa/commit/372a1ab8fa4c8415f1eda294e3c4c5d9dbee4a30), [`5f4d93c374b0ad0b0a31e75de98c7557e0415677`](https://github.com/medusajs/medusa/commit/5f4d93c374b0ad0b0a31e75de98c7557e0415677)]:
+  - @medusajs/framework@2.19.0
+
 ## 2.18.0
 
 ### Patch Changes
